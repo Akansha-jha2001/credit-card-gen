@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/credit-card-gen/static/css/main.0c178fcc.css",
+    "main.js": "/credit-card-gen/static/js/main.02ddc379.js",
+    "static/media/bg-card-front.png": "/credit-card-gen/static/media/bg-card-front.8153e2ca184402a8385f.png",
+    "index.html": "/credit-card-gen/index.html",
+    "main.0c178fcc.css.map": "/credit-card-gen/static/css/main.0c178fcc.css.map",
+    "main.02ddc379.js.map": "/credit-card-gen/static/js/main.02ddc379.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0c178fcc.css",
+    "static/js/main.02ddc379.js"
+  ]
+}
